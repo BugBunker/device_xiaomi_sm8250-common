@@ -1,6 +1,4 @@
-# Unpinned blobs from munch-user 13 RKQ1.211001.001 V14.0.1.0.TLMMIXM release-keys
-# lmi: lmi-user 11 RKQ1.200826.002 V12.5.3.0.RJKMIXM release-keys
-# renoir: 22.5.11
+# Unpinned blobs from alioth_eea-user 13 RKQ1.211001.001 V14.0.7.0.TKHEUXM release-keys
 
 # ADSP
 vendor/bin/adsprpcd
@@ -165,6 +163,7 @@ vendor/lib64/libhdr_tm.so
 # Display (SDM)
 vendor/lib64/libdisplayqos.so
 vendor/lib64/libdisplayskuutils.so
+vendor/lib64/libdpps.so
 vendor/lib64/libgame_enhance.so
 vendor/lib64/libhdrdynamic.so
 vendor/lib64/libhdrdynamicootf.so
