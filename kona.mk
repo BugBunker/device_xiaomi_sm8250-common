@@ -132,9 +132,6 @@ PRODUCT_PACKAGES += \
     libvisualizer \
     libvolumelistener
 
-# Audio Daemon
-PRODUCT_PACKAGES += vendor.qti.audio-adsprpc-service.rc
-
 # Audio Alsa Extensions
 PRODUCT_PACKAGES += \
    libaudioroute \
@@ -475,7 +472,6 @@ PRODUCT_PACKAGES += \
     init.class_main.sh \
     init.mdm.sh \
     init.mi.btmac.sh \
-    init.qcom.early_boot.sh \
     init.qcom.post_boot.sh \
     init.qcom.sh \
     init.qti.dcvs.sh
