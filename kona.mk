@@ -525,10 +525,6 @@ PRODUCT_PACKAGES += \
     android.hardware.thermal@2.0-service.qti
 endif
 
-# Touch
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.xiaomi
-
 # Thermal path
 PRODUCT_PROPERTY_OVERRIDES += \
     vendor.sys.thermal.data.path=/data/vendor/thermal/
